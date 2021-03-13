@@ -47,6 +47,7 @@ namespace Inheritance.Tutorial
             Console.WriteLine(scythe.ToString());
             Console.WriteLine();
 
+            scythe.SpinAttack();
             scythe.Attack();
             scythe.Attack();
             scythe.Repair();
